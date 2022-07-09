@@ -1,0 +1,5 @@
+main\java\de\exxcellent\challenge\Reader\GenericFileReader.class
+main\java\de\exxcellent\challenge\Models\WeatherData.class
+main\java\de\exxcellent\challenge\App.class
+main\java\de\exxcellent\challenge\Reader\CustomCsvReader.class
+main\java\de\exxcellent\challenge\Models\GenericFile.class
